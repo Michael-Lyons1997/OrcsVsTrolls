@@ -1,10 +1,6 @@
-﻿  main.cpp
-  Generating Code...
-  Compiling...
-  troll.cpp
+﻿  troll.cpp
   orc.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
+  main.cpp
   character.cpp
-  OrcVsTrolls.vcxproj -> C:\Users\C00217557\Desktop\OrcVsTrolls\Debug\OrcVsTrolls.exe
-  OrcVsTrolls.vcxproj -> C:\Users\C00217557\Desktop\OrcVsTrolls\Debug\OrcVsTrolls.pdb (Partial PDB)
+  Generating Code...
+  OrcVsTrolls.vcxproj -> C:\Users\woxy#1\Source\Repos\OrcsVsTrolls2\OrcVsTrolls\Debug\OrcVsTrolls.exe
